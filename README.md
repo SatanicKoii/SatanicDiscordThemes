@@ -1,4 +1,4 @@
-# Basking Shark v1/v2
+# Satanic Discord Themes
 
 
 ## Download
