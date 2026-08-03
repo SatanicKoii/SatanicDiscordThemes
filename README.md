@@ -4,11 +4,19 @@
 ## Download
 
 1. Click on the file that references to the theme you want. The file NEEDS to end in `.theme.css` or BBD won't see it.
-1. Click on the button called `Raw` at the top right of the file.
-1. Right click anywhere on page and Click `Save Page As`.
-1. Now you can navigate to your themes folder and save it there but for this procedure, just save it to your `Downloads` folder for now, we'll move it later in the Installation.
-1. Make sure that the `Save as type` is set to `All files` before clicking save.
-1. You can now click `Save` and you can now move on to Installation .
+![Step 1](https://github.com/SatanicKoii/SatanicDiscordThemes/blob/main/Images/Step1.png?raw=true)
+
+3. Click on the button called `Raw` at the top right of the file.
+![Step 2](https://github.com/SatanicKoii/SatanicDiscordThemes/blob/main/Images/Step2.png?raw=true)
+
+3. Right click anywhere on page and Click `Save Page As`.
+![Step 3](https://github.com/SatanicKoii/SatanicDiscordThemes/blob/main/Images/Step3.png?raw=true)
+
+4. Now you can navigate to your themes folder and save it there but for this procedure, just save it to your `Downloads` folder for now, we'll move it later in the Installation.
+   
+5. Make sure that the `Save as type` is set to `All files` before clicking save.
+![Step 5](https://github.com/SatanicKoii/SatanicDiscordThemes/blob/main/Images/Step4.png?raw=true)
+![Step 5.5](https://github.com/SatanicKoii/SatanicDiscordThemes/blob/main/Images/Step5.png?raw=true)
 
 ## Installation
 You can use this method is install other themes or plugins.
