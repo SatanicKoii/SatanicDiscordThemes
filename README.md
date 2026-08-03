@@ -26,9 +26,13 @@ Javascript contains of THREE languages. CSS, HTML, and JavaScript.
 
 https://www.jschallenger.com/dashboard/ (Super fun learning website !!)
 
+
 https://dev.to/f53/custom-css-for-discord-1b4h (Discord specific)
+
 https://www.simplehtmlguide.com/cheatsheet.php (HTML. I highly recommend playing with the codes)
+
 https://www.simplehtmlguide.com/csscheatsheet.php (CSS. Same as before.)
+
 https://wiki.python.org/moin/BeginnersGuide (Python coding)
 
 You've heard of C#, haven't you? C# is used mostly in game creating. Personally, I don't actually know anything about it, but some of your favorite games use it! Games like Genshin Impact, Hallow Knight, Pokemon Go, Cuphead, etc. If you intend on learning it, I'd recommend studing JavaScript and Python FIRST, so you can more understand what you're looking at when moving into C#.
